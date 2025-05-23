@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<ResearchProjectDef>
+		<defName>TestProject</defName>
+		<label>test project</label>
+		<description>Just testing my mod.</description>
+		<baseCost>10</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+		</prerequisites>
+		<researchViewX>11.00</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+</Defs>
